@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="languages">
+        <item>C语言</item>
+        <item>Java </item>
+        <item>C#</item>
+        <item>PHP</item>
+        <item>HTML</item>
+        <item>HTML2</item>
+        <item>HTML3</item>
+        <item>HTML4</item>
+        <item>HTML5</item>
+        <item>HTML6</item>
+        <item>HTML7</item>
+    </string-array>
+</resources>
